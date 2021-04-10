@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/router-link-components/static/css/main.6d6b0535.chunk.css",
+    "main.js": "/router-link-components/static/js/main.1906e68e.chunk.js",
+    "main.js.map": "/router-link-components/static/js/main.1906e68e.chunk.js.map",
+    "runtime-main.js": "/router-link-components/static/js/runtime-main.c782a3f9.js",
+    "runtime-main.js.map": "/router-link-components/static/js/runtime-main.c782a3f9.js.map",
+    "static/js/2.c7558a1c.chunk.js": "/router-link-components/static/js/2.c7558a1c.chunk.js",
+    "static/js/2.c7558a1c.chunk.js.map": "/router-link-components/static/js/2.c7558a1c.chunk.js.map",
+    "index.html": "/router-link-components/index.html",
+    "static/css/main.6d6b0535.chunk.css.map": "/router-link-components/static/css/main.6d6b0535.chunk.css.map",
+    "static/js/2.c7558a1c.chunk.js.LICENSE.txt": "/router-link-components/static/js/2.c7558a1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c782a3f9.js",
+    "static/js/2.c7558a1c.chunk.js",
+    "static/css/main.6d6b0535.chunk.css",
+    "static/js/main.1906e68e.chunk.js"
+  ]
+}
